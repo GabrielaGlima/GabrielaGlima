@@ -27,7 +27,7 @@
     </a>
     <a target="_blank" 
     href="mailto:gg09065@gmail.com" >
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
     </a> 
     <a target="_blank"
     href="https://www.linkedin.com/in/gabriela-lima-610a9b250/" >
