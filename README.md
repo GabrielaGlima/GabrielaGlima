@@ -1,5 +1,5 @@
 - Sou acadêmica de matemática computacional
-- Estou estudando a linguagem C, HTML
+- Estou estudando a linguagem C, HTML, Java e Python
 - Pronouns: Ela / Dela
 
 ## Oiii eu sou uma Gabriela Lima, participante no mundo da programação e da tecnologia!
