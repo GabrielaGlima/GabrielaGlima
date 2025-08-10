@@ -26,7 +26,7 @@ Pronomes: Ela / Dela.
 ---
 
 <div>
-  <a href="https://instagram.com/gabriela032003" alt="em branco">
+  <a href="https://www.instagram.com/bibilimaaa" alt="em branco">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a><a href="mailto:gg09065@gmail.com" alt="em branco">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" />
