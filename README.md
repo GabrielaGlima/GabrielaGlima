@@ -1,28 +1,28 @@
-- Sou acadêmica de matemática computacional
+- Sou acadêmica de Engenharia de Software
 - Estou estudando um idioma C, HTML, Java e Python
-- Pronouns: Ela / Dela
+- Pronomes: Ela / Dela
 
 ## Oiii eu sou uma Gabriela Lima, participante no mundo da programação e da tecnologia!
-<div align="left">
+<dividir alinhar="esquerda">
   <a href="https://github.com/GabrielaGlima">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielaGlima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGlima&layout=compact&langs_count=7&theme=dark"/>
+  <imagem alta="160em" fonte="https://github-readme-stats.vercel.app/api?username=GabrielaGlima&maisrar_ícones=verdadeiro&tema=escuro&incluir_todos_commits=verdadeiro&contagem_privada=verdadeiro"/>
+  <imagem alta="160em" fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGlima&layout=compacto&contagem_langs=7&tema=escuro"/>
     
-<div estilo="display: inline_block"><br>
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Java" src="https://img.shields.io/badge/java-CC0000.svg?style=for-the-badge&logo=java&logoColor=white">
-  </div >
+<dividir estilo="exibir: inline_block"><br>
+  <imagem alinhar="centro" alt="HTML" fonte="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logotipo=html5&logoColor=branco">
+  <imagem alinhar="centro" alt="CSS" fonte="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logotipo=css3&logoColor=branco">
+  <imagem alinhar="centro" alt="Python" fonte="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logotipo=python&logoColor=ffdd54">
+  <imagem alinhar="centro" alt="C" fonte="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logotipo=c&logoColor=branco">
+  <imagem alinhar="centro" alt="Java" fonte="https://img.shields.io/badge/java-CC0000.svg?style=for-the-badge&logotipo=java&logoColor=branco">
+  </dividir >
   
   ##
  
-<div > 
-    <a alvo="_em branco"href="https://instagram.com/gabriela032003">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style = for-the-badge&logo = instagram&logoColor = branco "></a>
-    <a alvo="_em branco"href="mailto: gg09065@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style = for-the-badge&logo = gmail&logoColor = branco "</a> 
-    <a alvo="_em branco"href="https://www.linkedin.com/in/gabriela-lima-610a9b250/" >
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style = for-the-badge&logo = linkedin&logoColor = branco "></a> 
-</div >
+<dividir > 
+    <a alto="_em branco"href="https://instagram.com/gabriela032003">
+    <imagem fonte="https://img.shields.io/badge/-Instagram-%23E4405F?style = para o distintivo&logotipo = instagram&logoColor = branco "></a>
+    <a alto="_em branco"href="mailto: gg09065@gmail.com">
+    <imagem fonte="https://img.shields.io/badge/-Gmail-%23333?style = para o distintivo&logotipo = gmail&logoColor = branco "</zumbir> 
+    <a alto="_em branco"href="https://www.linkedin.com/in/gabriela-lima-610a9b250/" >
+    <imagem fonte="https://img.shields.io/badge/-LinkedIn-%230077B5?style = para o distintivo&logotipo = linkedin&logoColor = branco "></a> 
+</dividir >
