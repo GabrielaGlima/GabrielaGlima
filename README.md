@@ -15,27 +15,22 @@ Pronomes: Ela / Dela.
 </dividir>
 
 ---
-
-<dividir alinhar="centro">
-  <imagem alt="HTML" fonte="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logotipo=html5&logoColor=branco" />
-  <imagem alt="CSS" fonte="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logotipo=css3&logoColor=branco" />
-  <imagem alt="Python" fonte="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logotipo=python&logoColor=ffdd54" />
-  <imagem alt="C" fonte="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logotipo=c&logoColor=branco" />
-  <imagem alt="Java" fonte="https://img.shields.io/badge/java-CC0000.svg?style=for-the-badge&logotipo=java&logoColor=branco" />
-  </dividir>
+<div align="left">
+  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffd54f" />
+  <img alt="C" src="https://img.shields.io/badge/c-%23003299.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/java-CC0000.svg?style=for-the-badge&logo=java&logoColor=white" />
+</div>
 
 ---
 
-<dividir>
-  <a href="https://instagram.com/gabriela032003" alt="_em branco">
-    <imagem alt="Instagram" fonte="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logotipo=instagram&logoColor=branco" />
+<div>
+  <a href="https://instagram.com/gabriela032003" alt="em branco">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a><a href="mailto:gg09065@gmail.com" alt="em branco">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a><a href="https://www.linkedin.com/in/gabriela-lima-610a9b250/" alt="em branco">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="mailto:gg09065@gmail.com" alt="_em branco">
-    <imagem alt="Gmail" fonte="https://img.shields.io/badge/-Gmail-%23333333?style=for-the-badge&logotipo=gmail&logoColor=branco" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/gabriela-lima-610a9b250/" alt="_em branco">
-    <imagem alt="LinkedIn" fonte="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logotipo=linkedin&logoColor=branco" />
-  </a>
-    </dividir>
+</div>
