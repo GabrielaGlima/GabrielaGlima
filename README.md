@@ -6,13 +6,13 @@ Pronomes: Ela / Dela.
 
 ---
 
-<dividir alinhar="esquerda">
+<div align="left">
 
-  [![Estatísticas do GitHub de GabrielaGlima](https://github-readme-stats.vercel.app/api?username=GabrielaGlima&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/GabrielaGlima)
+[![Estatísticas do GitHub de Gabriela](https://github-readme-stats.vercel.app/api?username=GabrielaGlima&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/GabrielaGlima)
 
-  [![Melhores Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGlima&layout=compact&langs_count=7&theme=dark)](https://github.com/GabrielaGlima)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGlima&layout=compact&langs_count=7&theme=dark)](https://github.com/GabrielaGlima)
 
-</dividir>
+</div>
 
 ---
 <div align="left">
